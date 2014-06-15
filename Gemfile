@@ -5,6 +5,7 @@ gem 'rails', '4.0.5'
 
 group :development do
   gem 'sqlite3', '1.3.8'
+  gem 'haml-rails', '>= 0.3.4'
 end
 
 gem 'sass-rails', '4.0.1'
